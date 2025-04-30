@@ -267,6 +267,7 @@ for p in pacientes:
 #------------------------------------------------------------
 #validacione ciclo for
 # validaciones ciclo While
+
 totpacientes = 0
 cBajoPeso = 0
 cPesoNormal = 0

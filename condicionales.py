@@ -341,3 +341,11 @@ print("🔴 Pacientes con Obesidad :", cObesidad)
 print("\n📁 Detalle de pacientes:")
 for p in pacientes:
     print(f"Paciente {p['nro']}: ⚖️  {p['peso']} kg, 📏 {p['altura']} m, IMC: {p['imc']} → {p['categoria']}")
+
+
+print("\n📁 --------------------- Modificacion de la rama sandrarestrepo_001---------------")
+x=9
+y=10
+
+def sumanumero (x,y):
+    return x + y
